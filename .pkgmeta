@@ -1,0 +1,7 @@
+package-as: MouseTooltip
+
+ignore:
+    - .github
+    - .gitignore
+    - README.md
+    - build.sh

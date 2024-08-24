@@ -1,0 +1,7 @@
+## Title: MouseTooltip
+## Author: Nibrodooh
+## Interface: 110002
+## Version: @project-version@
+## DefaultState: enabled
+
+main.lua
