@@ -1,5 +1,5 @@
-# Mouse Tooltip
-A World of Warcraft addon that moves the tooltip to the cursor
+# Quest Announce
+A World of Warcraft addon that announces accepted and handed in quests to your party
 
 ## Installation
 Copy the GitHub URL into WoWUp
