@@ -106,7 +106,7 @@ end
 
 QuestAnnounce:RegisterEvent(QUEST_ACCEPTED)
 QuestAnnounce:RegisterEvent(QUEST_TURNED_IN)
-QuestAnnounce:RegisterEvent(QUEST_REMOVED)
+--QuestAnnounce:RegisterEvent(QUEST_REMOVED)
 QuestAnnounce:RegisterEvent(CHAT_MSG_ADDON)
 QuestAnnounce:RegisterEvent(QUEST_DATA_LOAD_RESULT)
 C_ChatInfo.RegisterAddonMessagePrefix(PREFIX)
