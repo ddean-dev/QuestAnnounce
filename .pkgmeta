@@ -5,3 +5,6 @@ ignore:
     - .gitignore
     - README.md
     - build.sh
+
+externals:
+    libs/ChatThrottleLib: https://repos.wowace.com/wow/chatthrottlelib/trunk chatthrottlelib

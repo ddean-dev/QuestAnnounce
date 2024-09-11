@@ -3,6 +3,7 @@
   "workspace.library": [
     "../vscode-wow-api/LuaScripts/WowDocLoader/Blizzard_APIDocumentation",
     "../vscode-wow-api/LuaScripts/WowDocLoader/Blizzard_APIDocumentationGenerated/",
-    "../vscode-wow-api/Annotations/"
+    "../vscode-wow-api/Annotations/",
+    "../chatthrottlelib/"
   ]
 }

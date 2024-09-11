@@ -4,4 +4,6 @@
 ## Version: @project-version@
 ## DefaultState: enabled
 
+libs/ChatThrottleLib/ChatThrottleLib.lua
+
 main.lua
